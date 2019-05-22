@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "539195060210",
+    "firebase_url": "https://whatsup-c17fe.firebaseio.com",
+    "project_id": "whatsup-c17fe",
+    "storage_bucket": "whatsup-c17fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539195060210:android:fad6d97d76b8c4bf",
+        "android_client_info": {
+          "package_name": "com.dcdeveloper.whatsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539195060210-qa6sbkis89gpnbog0bnjjuce52tnjlrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHoV5DdtxfjiuhUE5u6nC86hntI9wj3EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539195060210-qa6sbkis89gpnbog0bnjjuce52tnjlrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
